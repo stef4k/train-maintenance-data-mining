@@ -3,3 +3,6 @@
 
 # Data file
 sncb_data_challenge.csv
+
+# Virtual environment
+venv/
