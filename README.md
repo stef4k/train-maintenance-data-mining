@@ -1,5 +1,7 @@
 # Train Maintenance Data Mining
-Data mining application of real-world dataset to improve and automate train maintenance
+Data mining application of real-world dataset to improve and automate train maintenance.
+
+Check the [final presentation](https://github.com/stef4k/train-maintenance-data-mining/blob/main/final_presentation.pdf)
 
 ## 📂 Project Structure
 
