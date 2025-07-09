@@ -3,6 +3,8 @@ Data mining application of real-world dataset to improve and automate train main
 
 Check the [final presentation](https://github.com/stef4k/train-maintenance-data-mining/blob/main/final_presentation.pdf)
 
+Check the [problem description](https://github.com/stef4k/train-maintenance-data-mining/blob/main/problem_description.pdf)
+
 ## 📂 Project Structure
 
 The repository contains the following key components:
